@@ -1,1 +1,2 @@
-# Clinic-Appointment
+# Clinic-Appointment 📝
+The clinic module provides the structure and functionality for a veterinary clinic management system, allowing users to manage patient records and appointments through a text-based menu interface. It appears to be organized into separate functions and menus for better code structure and maintainability. The core module provides utility functions for handling user input, including integer and character input with validation, as well as functions for formatting and displaying phone numbers.
